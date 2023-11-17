@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TobiasWilhelmsson
 - 👀 I’m interested in all types of development, from PHP to C# to Javascript. Main focus right now is frontend developing.
 - 🌱 I’m currently learning frontend developing using Javascript.
-- 📫 You can reach me at tobias at wnkonsult.se
+- 📫 You can reach me at hej@tobiaswilhelmsson.se
+- https://tobiaswilhelmsson.se
