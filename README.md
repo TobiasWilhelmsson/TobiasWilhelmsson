@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobiasWilhelmsson
 - 👀 I’m interested in all types of development, from PHP to C# to JavaScript. Main focus right now is frontend developing.
-- 🌱 I’m currently learning frontend developing using JavaScript/React/Vue.
+- 🌱 I’m currently studying frontend/fullstack developing using JavaScript/React/Vue/NodeJS.
 - 📫 You can reach me at hej@tobiaswilhelmsson.se
 - https://tobiaswilhelmsson.se
